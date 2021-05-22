@@ -1,0 +1,1 @@
+# praktika-5-sql-skript
